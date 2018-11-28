@@ -1,2 +1,2 @@
 # car-parking-webgl
-A canvas in WebGL
+A canvas in html with WebGL
